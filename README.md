@@ -1,3 +1,3 @@
 # Smart
 
-My GitHub learning project 🚀
+I am learning how to create pull requests!
